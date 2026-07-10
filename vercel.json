@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/UYywagdwyu2waud.bin",
+      "destination": "/api/download"
+    }
+  ]
+}
