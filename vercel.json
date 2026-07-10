@@ -4,5 +4,20 @@
       "source": "/download",
       "destination": "https://raw.githubusercontent.com/FORTY71/cacafile/main/UYywagdwyu2waud.bin"
     }
+  ],
+  "headers": [
+    {
+      "source": "/download",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/octet-stream"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"UYywagdwyu2waud.bin\""
+        }
+      ]
+    }
   ]
 }
