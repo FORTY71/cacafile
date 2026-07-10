@@ -2,22 +2,7 @@
   "rewrites": [
     {
       "source": "/download",
-      "destination": "/UYywagdwyu2waud.bin"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/download",
-      "headers": [
-        {
-          "key": "Content-Disposition",
-          "value": "attachment; filename=UYywagdwyu2waud.bin"
-        },
-        {
-          "key": "Content-Type",
-          "value": "application/octet-stream"
-        }
-      ]
+      "destination": "https://raw.githubusercontent.com/FORTY71/cacafile/main/UYywagdwyu2waud.bin"
     }
   ]
 }
